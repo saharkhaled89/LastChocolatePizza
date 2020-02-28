@@ -1,0 +1,181 @@
+body {
+    width: 70%;
+    font-family: 'IBM Plex Serif', serif;
+    margin: 0 auto;
+  }
+  
+  header div {
+    display: inline-block;
+    margin-top: 2em;
+   
+  }
+  
+  h4 {
+    font-family: 'Yellowtail', cursive;
+    margin: 7px;
+    font-size: 40px;
+    padding: -7px -11px 29px 7px;
+    height: 26px;
+  }
+  
+  h5 {
+    font-family: 'VT323', monospace;
+    color: grey;
+    font-size: 13px;
+    margin-left: 7px;
+  
+  }
+  
+  header ul {
+  
+    float: right;
+    margin-top: 2.5em;
+    margin-left: 10px;
+  
+  }
+  
+  header ul li {
+    display: inline-block;
+  
+  }
+  
+  header ul:last-child {
+    margin-left: 4em;
+  }
+  
+  
+    .hr.new5 {
+      height: 10px;
+  background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+  border: 0;
+  transform: rotate(180dec);
+    }
+  
+  
+  h1 {
+    font-family: 'Francois One', sans-serif;
+    margin-top: 1em;
+    height: 25px;
+    font-size: 33px;
+    padding: 16px 0px 0px 0px;
+    margin-bottom: 9px;
+  }
+  
+  h2 {
+    font-family: 'VT323', monospace;
+    font-size: 13px;
+    color: grey;
+    float: left;
+  }
+  
+  img#cakeshape {
+    width: 100%;
+  margin:0 auto;
+  }
+  
+  
+  
+  
+  .print{    float: right;
+  margin-right: 0px;
+  padding: 10px 2px 22px 10px;
+    font-size: 67%;
+  }
+   
+  
+  
+  .list-background {
+  margin-top: 3.5vw;
+  width: 100%;
+  }
+  
+  
+  
+  .col-container {
+  color: gray;
+    display: inherit;
+    font-family: patrick hand, cursive;
+    line-height: 2.2;
+    margin-top: -24vw;
+    width: 100%;
+    margin-bottom: 70px;
+  margin-left: 41px;
+  }
+  fieldset.col.column-one {
+  border: none;
+  line-height: 36px;
+  
+  }
+  
+  fieldset.col.column-two {
+  border: none;
+  }
+  
+  .col {
+  display: inline-block;
+  width: 40%;
+  }
+  
+  ul#column1 {
+  margin-bottom: 205px;
+  margin-top: -308px;
+  float: none;
+  
+  }
+  ul#column2 {
+  float: none;
+  margin-top: -483px;
+  margin-bottom: 50px;
+  margin-left: 500px;
+  }
+  
+  form li {
+  margin-left: 41px;
+  }
+  
+  input[type=checkbox]:checked + label {
+  text-decoration: line-through;
+  }
+  
+  main div form label {
+    display: block;
+  }
+  
+  p {
+    text-indent: 30px;
+    margin-top: 30px;
+    margin-bottom: 18px;
+  }
+  
+  
+  footer img {
+    float: left;
+  }
+  
+  footer button {
+    float: right;
+   
+      margin-top: -91px;
+      font-size: larger;
+      border-block-end: none;
+      padding: 13px 16px 14px 15px;
+      background-color: firebrick;
+      color: antiquewhite;
+  
+  }
+  
+  
+  
+  #footLogo {
+  margin-left: 450px;
+  margin-top: -22px;
+  }
+  
+  
+  #copyright {
+    text-align: center;
+    color: gray;
+    margin-top: 60px;
+  
+  
+  }
